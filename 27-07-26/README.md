@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [CHRISCANDY](https://www.codechef.com/problems/CHRISCANDY) | C++​ | [CHRISCANDY.cpp](./CHRISCANDY.cpp) |
+| 2 | [CHEFSETC](https://www.codechef.com/problems/CHEFSETC) | C++​ | [CHEFSETC.cpp](./CHEFSETC.cpp) |
