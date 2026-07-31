@@ -8,28 +8,25 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
-    int t;
-    cin >> t;
+#include <bits/stdc++.h>
+using namespace std;
 
-    while (t--) {
-        int n;
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int T;
+    cin >> T;
+
+    while (T--) {
+        long long n;
         cin >> n;
 
-        vector<int> a(n);
-
+        long long x;
         for (int i = 0; i < n; i++)
-            cin >> a[i];
+            cin >> x;   // sirf input read karna hai
 
-        long long ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (a[i] < a[j])
-                    ans++;
-            }
-        }
-
-        cout << ans << "\n";
+        cout << n * (n - 1) / 2 << "\n";
     }
 
     return 0;
