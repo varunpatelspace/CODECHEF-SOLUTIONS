@@ -6,3 +6,4 @@
 |---|---------|----------|----------|
 | 1 | [CHFICRM](https://www.codechef.com/problems/CHFICRM) | C++​ | [CHFICRM.cpp](./CHFICRM.cpp) |
 | 2 | [RRCOPY](https://www.codechef.com/problems/RRCOPY) | C++​ | [RRCOPY.cpp](./RRCOPY.cpp) |
+| 3 | [RRCOPY](https://www.codechef.com/problems/RRCOPY) | C++​ | [RRCOPY.cpp](./RRCOPY.cpp) |
