@@ -12,7 +12,7 @@
 using namespace std;
 
 int main() {
-   int t,x,y;   // your code goes here
+   long long t,x,y;
    cin>>t;
    while(t--){
        cin>>x >>y;
