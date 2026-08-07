@@ -16,10 +16,10 @@ int main() {
    cin>>t;
    while(t--){
        cin>>x >>y;
-      int total=x+2*y;
+      long long total=x+2*y;
        if(total%2==0){
         cout<<"YES\n";  
-       } else{
+       }else{
            cout<<"NO\n";
        }
    }
