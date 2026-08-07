@@ -12,7 +12,7 @@
 using namespace std;
 
 int main() {
-    int t;
+    long long t;
     cin>>t;
     if(t%6==0 || t%6==1 || t%6 == 3){
         cout<<"yes";
