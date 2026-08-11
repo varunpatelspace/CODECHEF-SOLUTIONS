@@ -19,7 +19,7 @@ int main() {
       
        if(n%2==0){
             for (int i = 0; i < n / 2; i++){
-           cout<<"3"<<"-3"<<endl;
+           cout<<"3-3"<<endl;
             }
    } else if(n%3==0){
       for (int i = 0; i < n / 3; i++) {
