@@ -9,3 +9,4 @@
 | 3 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
 | 4 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
 | 5 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
+| 6 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
