@@ -14,11 +14,11 @@ using namespace std;
 int main() {
   int l,r;  // your code goes here
    cin>>l>>r;
-   
-  if((l+r)/2==0){
-      cout<<"No";
-  }else{
+   int p = l+r;
+  if(p%2==0){
       cout<<"Yes";
+  }else{
+      cout<<"No";
   }
   return 0;
 
