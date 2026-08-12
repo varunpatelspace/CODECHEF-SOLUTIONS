@@ -11,3 +11,4 @@
 | 5 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
 | 6 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
 | 7 | [CHKEV](https://www.codechef.com/START251D/problems/CHKEV) | C++​ | [CHKEV.cpp](./CHKEV.cpp) |
+| 8 | [BUSROW](https://www.codechef.com/START251D/problems/BUSROW) | C++​ | [BUSROW.cpp](./BUSROW.cpp) |
