@@ -14,7 +14,7 @@ using namespace std;
 int main() {
   int l,r;  // your code goes here
    cin>>l>>r;
-   if((l + r) % 2 == 0) {
+   if(l % 2 == 0 || r % 2 == 0 || l + 1 < r) {
     cout << "Yes";
 } else {
     cout << "No";
