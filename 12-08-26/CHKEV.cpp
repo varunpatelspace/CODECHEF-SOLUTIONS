@@ -14,7 +14,8 @@ using namespace std;
 int main() {
   int l,r;  // your code goes here
    cin>>l>>r;
-  if(l==r){
+   
+  if((l+r)/2==0){
       cout<<"No";
   }else{
       cout<<"Yes";
