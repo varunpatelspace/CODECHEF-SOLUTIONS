@@ -8,6 +8,7 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -24,7 +25,7 @@ int main() {
         int ans = 0;
 
         for (int i = 1; i <= n; i++) {
-            ans += max(a[i], a[2 * n + 1 - i])
+            ans += max(a[i], a[2 * n + 1 - i]);
         }
 
         cout << ans << endl;
